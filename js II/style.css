@@ -1,0 +1,32 @@
+#dugme{
+    width: 80px;
+    height: 20px;
+    margin-top: 30px;
+}
+
+#opcije{
+    margin-top: 30px;
+}
+
+#container {
+    
+    padding-left: 600px;
+    padding-right: 600px;
+    background-image: url(pozadina.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 430px 600px;
+    background-position: center;
+    margin: 110px 110px auto;
+}
+
+#izgled{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+
+   body {
+    color: rgb(55, 56, 58);
+    background-color:  rgb(55, 56, 58);
+
+   }
